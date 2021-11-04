@@ -4,7 +4,9 @@
 
 #include <stdio.h>
 
+'''c
 int main(void) {
   printf("Hello World");
   return 0;
  }
+'''
